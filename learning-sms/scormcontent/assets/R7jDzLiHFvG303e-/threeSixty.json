@@ -1,0 +1,296 @@
+{
+  "version": "3.83.31444.0",
+  "course_id": "6cpvDClILPM_course_id",
+  "title": "Trustly Templates",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Start"
+    },
+    {
+      "title": "First Contact"
+    },
+    {
+      "title": "From Trustly"
+    },
+    {
+      "title": "From Customer"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Xy3FFFOg3t",
+      "title": "Activity Preparation",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6To8k1wWJYL",
+      "title": "Case Pop",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6h5AoyY0myB",
+      "title": "Click ",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6eCFudmfqNL",
+      "title": "Click ",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6IwaqlAojoo",
+      "title": "Click and drag",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6D7llZnUh2y",
+      "title": "Click and drag",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5ltNRVJGlUS",
+      "title": "Click ",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5d9wkrYpr03",
+      "title": "Click ",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6mLBDC99NO8",
+      "title": "Click ",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5W2vFcxX2A8",
+      "title": "Click ",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6P0IHTV1PV2",
+      "title": "Click ",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "5cjBwtIkoBx",
+      "title": "Click ",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "5sqQnLssgLk",
+      "title": "Click ",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "6KWK76eU80R",
+      "title": "Click ",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "5eV6CXIhAVR",
+      "title": "Click ",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "6KAdztcT2Gk",
+      "title": "Click ",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "6ha5tRL9Q6j",
+      "title": "Click ",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "5cJZnWhj51S",
+      "title": "Click ",
+      "scene_index": "2.16"
+    },
+    {
+      "id": "6pP7ItdvOGJ",
+      "title": "Click ",
+      "scene_index": "2.17"
+    },
+    {
+      "id": "5wkciqoL4ue",
+      "title": "Click ",
+      "scene_index": "2.18"
+    },
+    {
+      "id": "6cQNtX68QTm",
+      "title": "Click ",
+      "scene_index": "2.19"
+    },
+    {
+      "id": "6hUWm9mUjLx",
+      "title": "Hotspot",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6CVxuY9BjR2",
+      "title": "Hotspot",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5bD1UYG0EsL",
+      "title": "Hotspot",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6n0clK9jjzh",
+      "title": "Hotspot",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6DFeCFgJif9",
+      "title": "Hotspot",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "67WwnVMT5Pe",
+      "title": "Hotspot",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "64kTiWEPXZ6",
+      "title": "Scenario 3",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5XtaISHF8cw",
+      "title": "Click ",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6qOINf7fYY6",
+      "title": "Click ",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "63eI6IJUq3J",
+      "title": "Click ",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6UleHomu9BL",
+      "title": "Click ",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6WOedGZFjVv",
+      "title": "Click and drag",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6XGBd4HkxkX",
+      "title": "Click ",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6KHppKLb5sR",
+      "title": "Click ",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "63C0QJmXp6x",
+      "title": "Click ",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6kDTaPpobsK",
+      "title": "Click ",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "6LsDOWZENjx",
+      "title": "Click ",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "5ysELIeXgd8",
+      "title": "Click ",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "5ln5zhbmV5J",
+      "title": "Click ",
+      "scene_index": "4.13"
+    },
+    {
+      "id": "6MktvaEKGiM",
+      "title": "Click ",
+      "scene_index": "4.14"
+    },
+    {
+      "id": "5apKySYhBRI",
+      "title": "Click ",
+      "scene_index": "4.15"
+    },
+    {
+      "id": "6VduynlCgka",
+      "title": "Click ",
+      "scene_index": "4.16"
+    },
+    {
+      "id": "60J5qExbP5g",
+      "title": "Click ",
+      "scene_index": "4.17"
+    },
+    {
+      "id": "6Kd2PMNPCG9",
+      "title": "Click ",
+      "scene_index": "4.18"
+    },
+    {
+      "id": "6Z2QDPGt0Wj",
+      "title": "Click ",
+      "scene_index": "4.19"
+    },
+    {
+      "id": "6Vmfykdw1uu",
+      "title": "Click ",
+      "scene_index": "4.20"
+    },
+    {
+      "id": "6aom6WJbTf5",
+      "title": "Scroll the mouse wheel",
+      "scene_index": "4.21"
+    },
+    {
+      "id": "5WeASJsxtie",
+      "title": "Click ",
+      "scene_index": "4.22"
+    },
+    {
+      "id": "6j82E6mWPtY",
+      "title": "Click ",
+      "scene_index": "4.23"
+    },
+    {
+      "id": "5YZIgazTGHr",
+      "title": "Click ",
+      "scene_index": "4.24"
+    },
+    {
+      "id": "5segEgndXGm",
+      "title": "Click ",
+      "scene_index": "4.25"
+    },
+    {
+      "id": "61eX1Q63zEL",
+      "title": "Click ",
+      "scene_index": "4.26"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 831
+  },
+  "stage": {
+    "width": 1200,
+    "height": 736
+  }
+}
