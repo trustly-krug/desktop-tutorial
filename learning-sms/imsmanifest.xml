@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<manifest identifier="Yx6-LFOuKABWtjRHFFNR_q6BsGCxAcVugRU-8O37" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Supporting SMS Text Contacts</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Supporting SMS Text Contacts</title>
+        <adlcp:datafromlms>eyJjcHYiOiJnUlUtOE8zNyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/b34f87b0.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/dd1e36fb.js" />
+<file href="scormcontent/lib/rise/4a33c31c.css" />
+<file href="scormcontent/lib/rise/476ab123.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/assets/R7jDzLiHFvG303e-/player-interface.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/analytics-frame.html" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/css/output.min.css" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5W2vFcxX2A8.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5WeASJsxtie.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5XtaISHF8cw.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5YZIgazTGHr.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5apKySYhBRI.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5bD1UYG0EsL.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5cJZnWhj51S.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5cjBwtIkoBx.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5d9wkrYpr03.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5eV6CXIhAVR.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5ln5zhbmV5J.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5ltNRVJGlUS.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5segEgndXGm.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5sqQnLssgLk.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5wkciqoL4ue.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/5ysELIeXgd8.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/60J5qExbP5g.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/61eX1Q63zEL.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/63C0QJmXp6x.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/63eI6IJUq3J.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/64kTiWEPXZ6.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/67WwnVMT5Pe.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6CVxuY9BjR2.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6D7llZnUh2y.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6DFeCFgJif9.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6IwaqlAojoo.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6KAdztcT2Gk.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6KHppKLb5sR.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6KWK76eU80R.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6Kd2PMNPCG9.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6LsDOWZENjx.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6MktvaEKGiM.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6P0IHTV1PV2.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6To8k1wWJYL.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6UleHomu9BL.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6VduynlCgka.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6Vmfykdw1uu.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6WOedGZFjVv.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6XGBd4HkxkX.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6Xy3FFFOg3t.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6Z2QDPGt0Wj.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6aom6WJbTf5.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6cQNtX68QTm.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6eCFudmfqNL.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6h5AoyY0myB.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6hUWm9mUjLx.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6ha5tRL9Q6j.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6j82E6mWPtY.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6kDTaPpobsK.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6mLBDC99NO8.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6n0clK9jjzh.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6pP7ItdvOGJ.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/6qOINf7fYY6.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/data.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/frame.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/data/js/paths.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/hls/hls.min.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/scripts/bootstrapper.min.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/scripts/frame.desktop.min.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/scripts/frame.mobile.min.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/scripts/slides.min.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/stylesheets/desktop.min.css" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/html5/lib/stylesheets/mobile.min.css" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/meta.xml" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5WicfHXNZRW.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5Wuz3oTF6vL.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5XTKKSIddqk.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5Yn0EVgun4p.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5aWce0QxGzo.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5bdE0qTpjzu.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5eBOd10KEBO.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5ezi45wmzgD.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5fK9JIx6QB2.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5fi9UvZeoL6.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5g8WZrkJtZ3.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5gL3ggZleua.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5gdX22J8jP3.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5kev7eozpP8_P_0_0_832_1754.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5laV3SATiVW.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5lhvTlFYVJI.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5m0fhhyHmRj.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5nDGBDyXoIf.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5q9FmIEOgmP.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5uqGGJc8Z8f.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5uraM1NxwI0.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5vYoJYeBNN7.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5x871TcHdV4.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/5zr44TvGPRf.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/60qbFekNkQN.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/62sfL58YgZi.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/64ZloDhL6Mm.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6BGLFtExSRc.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6CKvUuvz7WH.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6Dkr8ppEouO.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6ETMAmiKiF0.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6FCe4muUpwc.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6FJAsglawH7.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6GJMoGFDkFS.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6Gj7QhAZ4ty.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6IFCS0CGnt1.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6JUw3sccbmH.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6MfIUGMUwMb.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6RKHDtYyR3W.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6RdHAgOszr6.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6S4DkpjbrwU.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6THCOwC6oYb.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6TW8FoubmS9_P_0_0_831_1719.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6TWnQNyj8UE.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6WrD6SyugPX.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6WxPdUkYYMd.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6XQLSHWITzC.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6ciXVf1u8jo.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6eaSuZrQryr.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6kVKnRFIVuc.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6kbLChD5oWs.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6lMlsigHYJw.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6lXuma2chNy_P_0_180_1763_1867.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6nrY8daMNQw.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/6qv2JvrNlYl.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5cKG8bDdD6m_video_6ZOWUeOFmfe_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5dDcNYByuZu_video_5wQRu5fVtCs_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5fF4Wu3f36o_video_6PLtLLzCVze_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5gieRavCD0P_video_5xwcX1vZB2V_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5i8DAicGvVI_video_6eFYwjSAwbp_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5jRJ1E6eCB7_video_69hlDkLGgnj_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5ovsJbuDXpB_video_6gHB5SEBjmt_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5ptqU0Tseuq_video_6eTUuEkvIb1_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5q4GZigyXYn_video_6r3tBBnQ117_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5rsuZBguhzt_video_6pxvYJHnc7B_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5sBKKuV0P2a_video_6ekCxIhEEwj_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5w92VpoHqL0_video_6A0JazevtW6_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5wlXplH0DMh_video_67QuwiM9tSe_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5xHS5KvKWHM_video_6LFi1hNAzh7_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5xSkGZFSkod_video_6pyUpL6rLQc_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5yBm7GuQnbm_video_5VGjc8JBupu_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5yLfFvk9XYc_video_6haX4Jl04fV_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5ywK5xkcB2B_video_6TGEELw8wDQ_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_5zFonyjQB5O_video_5Y19iyo3hwX_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_61RpMoy6APx_video_612Ii0GQuDe_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_63EktzKhHtY_video_6SCI7lO75oM_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_64IYk2KExzX_video_5w8nUqfRmuF_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_64JW1QDZy5X_video_6Bv9FPbHSkd_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_650Gb5WLQtv_video_6AmSOdnAgcy_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_651BnCG68zg_video_658wk3EUDWJ_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_65sTzM21kKk_video_5f29I8IMi3I_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_676JcNKqNT6_video_65FEw59XK4R_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6AI8vrCKogr_video_5XbpEBPHxq5_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6EaOTiUFohU_video_5bmbCB0dRmS_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6FmMdIdVIIE_video_63hXKkxfCYL_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6GzEyG8sxei_video_6pQuduVY8yN_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6N9pde0yN4z_video_6j8aSucaaF5_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6NxFQlwUmEl_video_5wKrFlHqqMt_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6PlJXl2OKPr_video_64bjlhqxH0q_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6PuCogHgbsn_video_6Xr5q8DpzMz_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6TXdi5vCtew_video_5hwOtUg2XTQ_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6Uwe0hfm3F4_video_6YS7XRJIK3E_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6VnlQ6pG3QV_video_5weGEvqDJbd_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6VrJ7ikKbjD_video_5aK2cAI9T0B_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6YfEyvVBMiD_video_6JdcuqPw1M7_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6Zlo1jiyczZ_video_6eXcceH66hg_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6bWwQUGTZLA_video_6XggI0a5yHb_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6cFE6qwb5rh_video_5nbzz2lGCMB_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6cr81KCNIuu_video_6f7kkUL6PM3_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6eG15guMuvK_video_5asrB5xr69c_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6gDqhRtsQDP_video_6aM6LRXdHtw_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6gEVyQw5Hih_video_6lvgCyTmCJL_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6hk2YWuKrQH_video_64sPOEidog1_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6oW4KWKQ14E_video_6SKu3IYrcUF_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6pn6ASIAWBM_video_6oZe2gA5ULs_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/mobile/poster_6rHFqNZF7jv_video_5xsVFnBYsnX_0_56_2400x1472.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story.html" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/5o1CvcuLXQi_44100_56_0.mp3" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/68qLPnvHkUq_44100_56_0.mp3" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/MouseClickSound_0a35ae0d-8b90-4657-86f7-b49826c2604c_44100_56_0.mp3" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/mouse_50b40799-bc80-4cf2-b4c6-b027628381b7.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/mouse_6b7f4442-2ebf-4b75-86cd-380378cb90ef.png" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/thumbnail.jpg" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/user.js" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5VGjc8JBupu_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5XbpEBPHxq5_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5Y19iyo3hwX_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5aK2cAI9T0B_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5asrB5xr69c_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5bmbCB0dRmS_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5f29I8IMi3I_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5hwOtUg2XTQ_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5nbzz2lGCMB_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5w8nUqfRmuF_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5wKrFlHqqMt_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5wQRu5fVtCs_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5weGEvqDJbd_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5xsVFnBYsnX_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_5xwcX1vZB2V_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_612Ii0GQuDe_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_63hXKkxfCYL_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_64bjlhqxH0q_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_64sPOEidog1_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_658wk3EUDWJ_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_65FEw59XK4R_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_67QuwiM9tSe_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_69hlDkLGgnj_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6A0JazevtW6_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6AmSOdnAgcy_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6Bv9FPbHSkd_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6JdcuqPw1M7_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6LFi1hNAzh7_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6PLtLLzCVze_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6SCI7lO75oM_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6SKu3IYrcUF_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6TGEELw8wDQ_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6XggI0a5yHb_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6Xr5q8DpzMz_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6YS7XRJIK3E_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6ZOWUeOFmfe_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6aM6LRXdHtw_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6eFYwjSAwbp_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6eTUuEkvIb1_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6eXcceH66hg_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6ekCxIhEEwj_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6f7kkUL6PM3_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6gHB5SEBjmt_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6haX4Jl04fV_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6j8aSucaaF5_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6lvgCyTmCJL_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6oZe2gA5ULs_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6pQuduVY8yN_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6pxvYJHnc7B_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6pyUpL6rLQc_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/story_content/video_6r3tBBnQ117_0_56_2400x1472.mp4" />
+<file href="scormcontent/assets/R7jDzLiHFvG303e-/threeSixty.json" />
+<file href="scormcontent/lib/fonts/fjop1rqd52-gu9p0-TrustlySans-BoldHeadline.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-SemiBold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Medium.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Black.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Bold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Italic.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Regular.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Light.woff" />
+<file href="scormcontent/lib/fonts/YwF33_R5HEici3L3-TrustlySans-Bold.woff" />
+<file href="scormcontent/lib/fonts/zHYNxxwFdjGjYU_l-TrustlySans-Regular.woff" />
+<file href="scormcontent/assets/T40PaPciGwIBPTdJ_small.png" />
+<file href="scormcontent/assets/wrb9kewkjyhd3zUP_small_1675214699.jpg" />
+<file href="scormcontent/assets/Xvy3MF/stock-image.jpg" />
+<file href="scormcontent/assets/08XwkVMy41ebx65a_transcoded-7i3-WCRrWUHhpClu-SMS_2520Demo_2520CAPTIONS.0000000.jpg" />
+<file href="scormcontent/assets/6ycnR-tAVqa9gPaM_transcoded-7i3-WCRrWUHhpClu-SMS_2520Demo_2520CAPTIONS.mp4" />
+<file href="scormcontent/assets/75VeYDPFyvpvYvw2_7LB9Zofw7nHVkTtr.gif" />
+<file href="scormcontent/assets/TbdiQ7f8OVGGTjD2_transcoded-2CZfLOKAi8D0UpPf-AM-9.mp3" />
+<file href="scormcontent/assets/R9ce195uaYTmi8N2_E8lHvByXtnFzBawr.gif" />
+<file href="scormcontent/assets/6s9GLCWJfi3Kilr4_KRxygCBXgyIq1-cf.gif" />
+<file href="scormcontent/assets/pEfMVblhHcqrON2s_opa_SONvTsHbzUUa.jpg" />
+<file href="scormcontent/assets/E-W9XLwsi6oFYvJA_tzhpa-3geGs2tYOa.jpg" />
+<file href="scormcontent/assets/cuNXj6ZkiGHgReKk_story.html" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
